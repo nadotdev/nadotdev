@@ -1,3 +1,6 @@
 <h1 align="">Hi 👋</h1>
 
-- 🔭 I’m currently working on **Mobile App with Flutter**
+- 🔭 I am a Software Developer
+- Currently working on Mobile App
+- Backend service using Springboot
+- Docker, K8s
