@@ -4,3 +4,4 @@
 - Currently working on Mobile App
 - Backend service using Springboot
 - Docker, K8s
+- Operating sytem using Linux, MacOS
