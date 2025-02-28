@@ -2,6 +2,6 @@
 
 - 🔭 I am a Software Developer
 - Currently working on Mobile App
-- Backend service using Springboot
-- Docker, K8s
+- Backend dev
+- Docker
 - Operating sytem using Linux, MacOS
