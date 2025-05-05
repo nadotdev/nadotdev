@@ -9,5 +9,8 @@ Flutter | Dart | Python | Django | DRF | Redis | Docker | PostgreSQL | AWS | Git
 ### 📈 GitHub Stats
 ![STNA's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadotdev&show_icons=true&theme=radical)
 
+### Github Activities
+[![thatsnaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nadotdev)](https:/nadotdev/github.com//github-readme-activity-graph)
+
 ### 📬 Connect with me
 [Twitter](https://twitter.com/yourhandle) • [Email](mailto:you@example.com)
