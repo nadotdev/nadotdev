@@ -1,9 +1,8 @@
-### 🔭 What I'm working on
-- 🚕 Building a ride-hailing app with Flutter, Django, Redis, WebSockets
-- Follows clean architecture
-- 🧱 Exploring mono-repo architectures for scalable microservices
-- 🧪 Writing production-grade APIs with JWT, Redis caching
-
+🚀 What I’m Working On
+	•	🚖 Ride-Hailing Platform: Building a next-gen ride-hailing app using Flutter (frontend), Django (backend), Redis (real-time location), and WebSockets (live updates) with clean architecture.
+	•	🧱 Microservices Architecture: Developing a scalable mono-repo backend for efficient service isolation and rapid scaling.
+	•	🔐 Production-Ready APIs: Crafting secure, high-performance APIs with JWT authentication and Redis caching for real-time experiences.
+	•	🤖 AI-Enhanced Productivity: Integrating AI to streamline workflows and boost operational efficiency.
 ### 💡 Tech Stack
 Flutter | Dart | Python | Django | DRF | Redis | Docker | PostgreSQL | AWS | GitHub Actions
 
