@@ -1,7 +1,8 @@
 ### 🔭 What I'm working on
 - 🚕 Building a ride-hailing app with Flutter, Django, Redis, WebSockets
+- Follows clean architecture
 - 🧱 Exploring mono-repo architectures for scalable microservices
-- 🧪 Writing production-grade APIs with JWT, Redis caching, and Prometheus metrics
+- 🧪 Writing production-grade APIs with JWT, Redis caching
 
 ### 💡 Tech Stack
 Flutter | Dart | Python | Django | DRF | Redis | Docker | PostgreSQL | AWS | GitHub Actions
