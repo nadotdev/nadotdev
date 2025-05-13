@@ -34,7 +34,7 @@ I'm a passionate **Backend Engineer** building scalable, real-time applications 
 ### 🌱 Currently Learning
 - Advanced Redis data structures for real-time location tracking.  
 - High-availability architectures for microservices.  
-- AI and machine learning for real-time decision making.  
+- Best practices, realworld, prod app rules
 
 ---
 
