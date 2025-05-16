@@ -1,33 +1,16 @@
-# 🚀 Welcome to My GitHub
+👋 Hi there! I’m a Backend Engineer who loves building fast, reliable apps.
 
-I'm a passionate **Backend Engineer** building scalable, real-time applications with a focus on performance, clean architecture, and efficient data handling. Here's a glimpse into what I'm currently working on:
+**🔭 Right now I’m working on:**
+- **Ride-hailing app**  
+  Connecting drivers and riders instantly with real-time maps and notifications.
+- **Scalable microservices**  
+  Breaking features into small, self-contained services that grow on demand.
+- **Secure, high-speed APIs**  
+  Keeping data safe with JWT logins and making everything load in a flash.
+- **AI-powered tools**  
+  Smartly matching drivers to riders and spotting trends for better service.
 
----
-
-### 🔭 What I'm Working On
-
-- 🚖 **Ride-Hailing Platform**  
-  Building a next-gen ride-hailing app using **Flutter** (frontend), **Django** (backend), **Redis** (real-time location), and **WebSockets** (live updates).  
-  - **Real-time Driver-User Matching**: Low-latency matching using Redis Geo and Pub/Sub.  
-  - **Live Trip Updates**: WebSockets for real-time location tracking and notifications.  
-  - **Clean Architecture**: Decoupled layers for maintainability and testability.  
-
-- 🧱 **Scalable Microservices Architecture**  
-  Developing a mono-repo backend with isolated, horizontally scalable services.  
-  - **Microservices**: Booking, Trip, Notification, and Location services.  
-  - **Redis-Driven Real-Time Processing**: Geo queries, sorted sets, and streams for precise location management.  
-  - **API Gateway and Load Balancing**: Efficient routing with Dockerized services.  
-
-- 🔐 **Production-Ready APIs**  
-  Crafting secure, high-performance APIs with **JWT authentication** and **Redis caching** for real-time experiences.  
-  - **JWT for Secure Sessions**: Role-based access for drivers and passengers.  
-  - **Optimized Caching**: Redis for low-latency data retrieval and ETag support.  
-  - **Scalable WebSocket Messaging**: Real-time event broadcasting with Redis Streams.  
-
-- 🤖 **AI-Enhanced Productivity**  
-  Integrating AI to streamline workflows, automate repetitive tasks, and boost operational efficiency.  
-  - **Predictive Ride Matching**: Intelligent driver-passenger pairing using machine learning.  
-  - **Real-time Data Insights**: Analyzing trip patterns for better service optimization.  
+Feel free to explore my projects and reach out if you’d like to collaborate!
 
 ---
 
