@@ -1,4 +1,4 @@
-👋 Hi there! I’m a Backend Engineer who loves building fast, reliable apps.
+👋 Hi there! I’m a Software Engineer who loves building fast, reliable apps.
 
 **🔭 Right now I’m working on:**
 - **Ride-hailing app**  
