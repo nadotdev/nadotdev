@@ -1,5 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadotdev&layout=compact&langs_count=8)
-👋 Hi there! I’m a Software Dev who loves building fast, reliable apps.
+👋 Hi there! I’m a Software Dev
 
 **🔭 Right now I’m working on:**
 - **Ride-hailing app**  
