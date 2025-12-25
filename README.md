@@ -8,6 +8,6 @@ When I'm not coding, I enjoy exploring new technologies 🌐 and learning new sk
 - FastAPI | SQLModel, SQLAlchemy, Alembic | PostgreSQL | Redis
 - RabbitMQ | gRPC
 
-## 📚 Learning...
+## 📚 📈 Learning...
 - Swift/SwiftUI
 - Golang fundamental
