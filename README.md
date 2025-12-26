@@ -11,3 +11,5 @@ When I'm not coding, I enjoy exploring new technologies 🌐 and learning new sk
 ## 📚 📈 Learning...
 - Swift/SwiftUI
 - Golang fundamental
+
+[![roadmap.sh](https://roadmap.sh/card/wide/694cad2e0f5104b83f809f53?variant=dark)](https://roadmap.sh)
