@@ -13,3 +13,7 @@ When I'm not coding, I enjoy exploring new technologies 🌐 and learning new sk
 - Golang
 
 [![roadmap.sh](https://roadmap.sh/card/tall/694cad2e0f5104b83f809f53?variant=dark&roadmaps=)](https://roadmap.sh)
+
+## 📚 Edeucation Background
+- Bachelor's degree of Management Information System (MIS) at SETEC Institute
+- Certificate General English Program @Aii Language Center
