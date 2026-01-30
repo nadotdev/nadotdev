@@ -3,8 +3,8 @@
 Hi there 👋, I'm Sothatna! Experienced mobile and backend developer with hands-on experience in Flutter, FastAPI and SpringBoot.
 
 ## 💻 Skills
-- Dart/Flutter/BloC | Swift/SwiftUI
-- FastAPI | SQLModel, SQLAlchemy, Alembic | PostgreSQL | Redis
+- Dart/Flutter/BloC
+- FastAPI | Spring Boot | SQLModel, SQLAlchemy, Alembic | PostgreSQL | Redis
 - RabbitMQ | gRPC
 
 ## 📚 📈 Learning...
