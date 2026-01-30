@@ -8,7 +8,6 @@ Hi there 👋, I'm Sothatna! Experienced mobile and backend developer with hands
 - RabbitMQ | gRPC
 
 ## 📚 📈 Learning...
-- Swift/SwiftUI
 - Golang
 - Spring Boot
 
