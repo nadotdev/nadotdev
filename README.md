@@ -1,6 +1,6 @@
 ## ℹ️ About Me
 
-Hi there 👋, I'm Sothatna! Experienced mobile and backend developer with hands-on experience in Flutter, FastAPI and SpringBoot.
+Hi there, I'm Sothatna! Experienced mobile and backend developer with hands-on experience in Flutter, FastAPI and Spring Boot
 
 ## 💻 Skills
 - Dart/Flutter/BloC
