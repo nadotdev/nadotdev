@@ -17,7 +17,7 @@
 - 🐍 Backend development with **Python**
 - 📱 Mobile apps with **Flutter**
 - 🌐 Web frontends with **Vue.js**, accelerated by AI-assisted workflows
-- 🔭 Currently working on: **Booking App**
+- 🔭 Currently working on: **Ride Hailing**
 
 ### Tech Stack
 
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
