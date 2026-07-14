@@ -17,7 +17,7 @@
 - 🐍 Backend development with **Python**
 - 📱 Mobile apps with **Flutter**
 - 🌐 Web frontends with **Vue.js**, accelerated by AI-assisted workflows
-- 🔭 Currently working on: **Ride Hailing**
+- 🔭 Currently working on: **Backend / Microservices for Ride Hailing App**
 
 ### Tech Stack
 
