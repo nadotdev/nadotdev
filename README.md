@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sothatna 👋</h1>
 
 <p align="center">
-  Backend & Mobile Developer — building reliable APIs and cross-platform apps.
+  Backend & Mobile Developer - building reliable APIs and cross-platform apps.
 </p>
 
 <p align="center">
