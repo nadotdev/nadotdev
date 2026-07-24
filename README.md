@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sothatna 👋</h1>
+<h1 align="center">Hi, I'm Sothatna</h1>
 
 <p align="center">
-  Backend & Mobile Developer - building reliable APIs and cross-platform apps.
+  I build mobile and backend apps - FastAPI on the backend, Flutter on the frontend. </br> Lately I've been deepening my focus on API design and backend development.
 </p>
 
 <p align="center">
@@ -14,11 +14,10 @@
 
 ### About
 
-- 🐍 Backend development with **Python**
-- 📱 Mobile apps with **Flutter**
-- 🌐 Web frontends with **Vue.js**, accelerated by AI-assisted workflows
-- 🔭 Currently working on: **Backend / Microservices for Ride Hailing App**
-
+- Backend development with **Python**
+- Mobile apps with **Flutter**
+- Web frontends with **Vue.js**, accelerated by AI-assisted workflows
+- Currently working on: **Backend / Microservices for Ride Hailing App**
 ### Tech Stack
 
 <p>
