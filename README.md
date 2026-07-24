@@ -14,7 +14,7 @@
 
 ### About
 
-- Backend development with **Python**
+- Backend development with **FastAPI**
 - Mobile apps with **Flutter**
 - Web frontends with **Vue.js**, accelerated by AI-assisted workflows
 - Currently working on: **Backend / Microservices for Ride Hailing App**
