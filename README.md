@@ -4,7 +4,7 @@
   I build mobile and backend apps - FastAPI on the backend, Flutter on the frontend. </br> Lately I've been deepening my focus on API design and backend development.
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://nadotdev.vercel.app"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/sothatna-it"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nadotdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -12,7 +12,7 @@
 
 ---
 
-### About
+<!--  ### About
 
 - Backend development with **FastAPI**
 - Mobile apps with **Flutter**
