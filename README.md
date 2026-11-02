@@ -1,8 +1,8 @@
-<!-- <h1 align="center">Hi, I'm Sothatna</h1>
+<h1 align="center">Hi, I'm Sothatna</h1>
 
 <p align="center">
   I build mobile and backend apps - FastAPI on the backend, Flutter on the frontend. </br> Lately I've been deepening my focus on API design and backend development.
-</p> -->
+</p>
 
 <p align="center">
   <a href="https://nadotdev.vercel.app"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -12,7 +12,7 @@
 
 ---
 
-<!--  ### About
+### About
 
 - Backend development with **FastAPI**
 - Mobile apps with **Flutter**
