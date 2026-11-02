@@ -18,7 +18,7 @@
 - Mobile apps with **Flutter**
 - Web frontends with **Vue.js**, accelerated by AI-assisted workflows
 - Currently working on: **Backend / Microservices for Ride Hailing App**
-### Tech Stack -->
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
