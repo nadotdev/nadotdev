@@ -12,12 +12,14 @@
 
 ---
 
+<!--
 ### About
-
 - Backend development with **FastAPI**
 - Mobile apps with **Flutter**
 - Web frontends with **Vue.js**, accelerated by AI-assisted workflows
 - Currently working on: **Idle**
+-->
+ 
 ### Tech Stack
 
 <p>
