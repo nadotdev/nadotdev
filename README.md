@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sothatna</h1>
+<h1 align="center">Hey there</h1>
 
 <p align="center">
   I build mobile and backend apps - FastAPI on the backend, Flutter on the frontend. </br> Lately I've been deepening my focus on API design and backend development.
