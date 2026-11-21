@@ -11,18 +11,11 @@
 </p>
 
 ---
-
-<!--
-### About
-- Backend development with **FastAPI**
-- Mobile apps with **Flutter**
-- Web frontends with **Vue.js**, accelerated by AI-assisted workflows
-- Currently working on: **Idle**
--->
  
 ### Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
